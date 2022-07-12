@@ -1,56 +1,39 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set up project with webpack
 
-> Description the project.
+> a simple yet powerful webpack boilerplate.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- html css javascript
+- Package managers
+- Webpack bundler
 
 ### Prerequisites
+-Github flow knowledge.
+-Basic CSS and HTML.
+-Installation of files.
+-Package managers
 
 ### Setup
+-To clone the repository run `[https://github.com/NATASHA-ct/webpack-practise.git]` in your terminal
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+-Set up Github Actions
+-Set up linter > Lighthouse , Webhint ,Stylelint ,
+-Added Eslint
+-Add webpack
 
 
 ## Authors
 
-👤 **Author1**
+👤 **NATASHA TATENDA CHIROMBE**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
 ## 🤝 Contributing
 
@@ -61,12 +44,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
